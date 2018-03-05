@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("asdasdads");
+
+        System.out.println("version 2");
     }
 }
